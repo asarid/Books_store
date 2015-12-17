@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BookShop</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to 002_login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_userName">Username</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="message_welcome">Welcome!\n\nThe interactive store application for books is yours!</string>
+    <string name="headline_bookStore">THE BOOKS STORE</string>
+    <string name="forgotPassword">forgot username or password?</string>
+    <string name="text_new_member">not a member? sign up now.</string>
+    <string name="button_about">About</string>
+    <string name="textView_language">language: </string>
+    
+    <string-array name="language_array">
+        <item>English</item>
+        <item>Hebrew</item>
+    </string-array>
+
+
+    <!-- Strings related to _008_chooseTypeAccount-->
+    <string name="headline_select_type_account">Select Type of Account</string>
+    <string name="text_costumer">costumer</string>
+    <string name="text_provider">provider</string>
+    <string name="button_continue">continue</string>
+    <string name="title_activity_sample">sample</string>
+
+    <!--Strings re;ated to _007_new_account_details -->
+    <string name="title_activity_new_account_details">providing details</string>
+    <string name="hint_username">Username:</string>
+    <string name="hint_password">Password:</string>
+    <string name="hint_typeOfAccount">Type of Account:</string>
+    <string name="label_account_details">Account Details:</string>
+    <string name="action_settings">settings</string>
+    <string name="button_help">help</string>
+</resources>
